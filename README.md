@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arun Vinayak Rathod
 - 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ...C++, Linux, JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...Spring, Hibernet
+- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
